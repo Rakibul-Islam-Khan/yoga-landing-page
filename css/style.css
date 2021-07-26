@@ -1,0 +1,77 @@
+h1,
+h2,
+h3 {
+    font-family: 'Gabriela',
+        serif;
+
+}
+
+.body {
+    background-image: url("../images/Ellipse\ 1.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.yoga-bg-color {
+    background-color: #fff4f4 !important;
+}
+
+.now-btn {
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    border-bottom-left-radius: 0px !important;
+    background: #9683CB !important;
+    color: white !important;
+}
+
+.yoga-button:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+.home,
+.about,
+.contact,
+.class,
+.team,
+.time-1,
+.time-2,
+.time-3 {
+    color: #927ECC !important;
+}
+
+.women {
+    background-image: url("../images/Group20bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.life {
+    background-color: #EFEAFF;
+    border-radius: 100px 10px;
+}
+
+.bg-group {
+    background-image: url("../images/Group\ 3.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.bg-group-2 {
+    background-image: url("../images/Group\ 4.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.mask{
+    background: #EFEAFF;
+    background-image: url("../images/Mask\ Group.png");
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height:500px;
+}
+.life-1,.life-2,.life-3,.life-4{
+    background: #FFF3F3;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px 5px;
+}
